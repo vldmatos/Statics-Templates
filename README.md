@@ -6,3 +6,4 @@ Statics Sites Templates
 **Templates**  
 
 - Oxygen  
+- ILand  
